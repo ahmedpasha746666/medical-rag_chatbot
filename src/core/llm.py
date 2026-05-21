@@ -38,7 +38,7 @@ def llm_model(groq_api_key: str = groq_api_key):
             logger.info("Initializing Groq LLM model")
             _llm_model = ChatGroq(
                 api_key=groq_api_key,
-                model="llama-3.3-70b-versatile",
+                model="llama-3.1-8b-instant",
                 temperature=0.3,
                 max_tokens=2048,
                 streaming=True
