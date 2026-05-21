@@ -104,7 +104,7 @@ medical-rag-chatbot/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/medical-rag-chatbot.git
+git clone https://github.com/ahmedpasha746666/medical-rag-chatbot.git
 cd medical-rag-chatbot
 ```
 
